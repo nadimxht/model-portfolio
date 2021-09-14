@@ -1,0 +1,41 @@
+h1{
+    letter-spacing: 0.075em;
+    font-size: 26px;
+    font-family: Varela Round,Helvetica,arial,sans-serif;
+    font-weight: normal;
+    text-transform: normal;
+    font-size: 36px;
+    letter-spacing: 0px;
+    font-family: "proxima-nova";
+    line-height: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 40px;
+    display: inline-block;
+}
+.face{
+    display: flex;
+    justify-content: end;
+    transform: translateY(-40px);
+}
+.face1{
+    font-family: Varela Round,Helvetica,arial,sans-serif;
+}
+.hrr{
+    background-color: black;
+    text-align: center;
+
+}
+.mesure{
+    font-size: 20px;
+    line-height: 34px;
+    font-family: "Nunito Sans";
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    font-weight:500;
+    font-style: normal;
+}

@@ -1,0 +1,30 @@
+.row{
+    margin-top:10px!important;
+   
+}
+.container{
+    width: 75%!important;
+
+    
+
+}
+img{
+    margin-right: -15px!important;
+    height: 350px!important;
+    width: 270px!important;
+    
+    
+    
+}
+.two{
+    width: 50%!important ;
+}
+.two2{
+    width:50.9%!important;
+}
+img:hover{
+    
+    transition: 0.5s;
+    transform: scale(1.04);
+    
+}
